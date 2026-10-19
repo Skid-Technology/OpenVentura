@@ -3,7 +3,7 @@
         <br>
     <font size="2"><b>Ai did almost everything if there is a issue make a ticket or something in our server</b></font>
     <br>
-  <font size="6"><b>Ventura Src Credits to Deepseek Flash v1, BynBang, Nitrogen</b></font>
+  <font size="6"><b>Ventura Deobfed + Remapped Credits to Deepseek Flash v1, BynBang, Nitrogen</b></font>
   <br>
   <font size="3">by Skid Solutions</font>
 </p>
